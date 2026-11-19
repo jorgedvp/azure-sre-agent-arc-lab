@@ -1,3 +1,5 @@
+> **📌 Este repositorio fue consolidado en [`jorgedvp/azure-sre-agent-demo-hub`](https://github.com/jorgedvp/azure-sre-agent-demo-hub)** (despliegue automatizado, presentación L300, guía del presentador). Se conserva aquí por su historial de commits; use el hub como punto de entrada.
+
 # Azure SRE Agent — Arc-Connected SQL VM Lab
 
 Lab exploratorio para validar hasta dónde llegan las capacidades de **Azure SRE Agent** cuando el recurso objetivo es una máquina conectada vía **Azure Arc** (simulando un servidor on-premises con SQL Server), en vez de un recurso nativo de Azure.
